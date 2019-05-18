@@ -1,16 +1,14 @@
 /*
  * LottoGenerator
  *
- * version 1.0
+ * version 1.1
  *
  * 2019/04/10
  */
 
 package domain;
 
-import java.util.ArrayList;
 import java.util.HashSet;
-import java.util.List;
 import java.util.Set;
 
 /**
